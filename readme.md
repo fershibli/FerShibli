@@ -16,9 +16,9 @@ Feel free to reach out to me if you have any questions, suggestions, or just wan
 - 🟦 BlueSky: https://bsky.app/profile/fershibli.bsky.social
 - 📸 Instagram: https://www.instagram.com/fershibli/
 
-## GitHub Verdinho
+## GitHub Verdinho Mission
 
-GitHub Verdinho is my personal adventure/project with the goal of filling up the GitHub activity chart for the upcoming year! The project started on July 2nd, and I'm excited to embark on this journey of continuous contribution and growth.
+GitHub Verdinho Mission is my personal adventure with the goal of filling up the GitHub activity chart for the upcoming year! The mission started on July 2nd, and I'm excited to embark on this journey of continuous contribution and growth.
 
 My aim is to actively contribute to open-source projects, personal projects, and any other meaningful repositories to keep my GitHub activity chart "verdinho" (Portuguese for "green," representing daily activity). Through consistent commits and valuable contributions, I hope to create a vibrant and active GitHub profile.
 
