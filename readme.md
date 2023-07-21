@@ -22,9 +22,6 @@ GitHub Verdinho Mission is my personal adventure with the goal of filling up the
 
 > My aim is to actively contribute to open-source projects, personal projects, and any other meaningful repositories to keep my GitHub activity chart "verdinho" (_Portuguese for "green," representing daily activity_). Through consistent commits and valuable contributions, I hope to create a vibrant and active GitHub profile.
 
-For the record, it started like this:
-![July 2nd GitHub: the picture of the starting point](./github-verdinho-starting-point.jpeg)
-
 I'm open to collaborating with other developers and projects that align with my interests, and I'm eager to support initiatives that promote inclusivity, diversity, and positive change in the tech community.
 
 Feel free to explore the repositories, follow my progress, and join me on this exciting GitHub Verdinho adventure!
