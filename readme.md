@@ -1,23 +1,20 @@
-# Welcome to FerShibli's Profile!
+### Welcome to FerShibli's Profile!
 
-![Profile Banner](./header.jpeg)
+I'm currently working with 
+- React Native for iOS, Android and Web (yes, react-native-web is a struggle... 😫 )
 
-## About Me
+But I love working with
+- Python (vanilla, Django, Flask, FastAPI, ...)
 
-Hello, fellow developers! Welcome to my GitHub front page. I'm FerShibli, a passionate fullstack developer and tech enthusiast from Brazil. Here, you'll find a collection of projects, ideas, and experiments that I've been working on. My main areas of interest include web development, software engineering, and exploring new technologies.
+I have a lot of experience with projects for
+- Medical applications
+- Governments
+- Gamming (Godot, Game Maker, RPG Maker, Unity, Unreal Engine, Pygame ❤️ )
 
-## Contact Me
-
-Feel free to reach out to me if you have any questions, suggestions, or just want to say hi. You can find me on the following platforms:
-
-- [📧 Email](mailto:fernandoluiz.1991@gmail.com)
-- [💼 LinkedIn](https://bit.ly/in-fershibli)
-- [🐦 Twitter](https://twitter.com/fershibli)
-- [🟦 BlueSky](https://bsky.app/profile/fershibli.bsky.social)
-- [📸 Instagram](https://www.instagram.com/fershibli)
-
-## Support
+Almost all my contributions are private (unfortunately), but I would love to contribute with public repositories, so feel free to reach out!
 
 If you find any of my projects helpful or interesting, please consider giving them a ⭐️. It's a great way to show your support and encouragement.
 
-Thank you for visiting my GitHub front page. Happy coding!
+___
+
+*Thank you for visiting my GitHub front page. Happy coding!*
