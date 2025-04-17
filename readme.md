@@ -24,7 +24,7 @@ If you find any of my projects helpful or interesting, please consider giving th
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img 
     src="https://github-readme-stats-psi-weld-99.vercel.app/api/top-langs/?username=fershibli&count_private=true&private_contributions=true&langs_count=6&layout=donut&theme=neon" 
-    width="42%" 
+    width="41.7%" 
     alt="Top Languages - Fernando" 
   />
 </a>
