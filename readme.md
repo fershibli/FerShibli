@@ -1,4 +1,4 @@
-### Welcome to FerShibli's Profile!
+# FerShibli
 
 I'm currently working with
 
@@ -12,9 +12,18 @@ Almost all my contributions are private (unfortunately)
 
 If you find any of my projects helpful or interesting, please consider giving them a ⭐️.
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=FerShibli)
+## GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerShibli)
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td maxwidth="50%" align="center" valign="top">
+      <img height="100px" src="https://github-readme-stats.vercel.app/api?username=fershibli&show_icons=true&theme=panda" />
+    </td>
+    <td maxwidth="50%" align="center" valign="top">
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fershibli&layout=compact&theme=panda" />
+    </td>
+  </tr>
+</table>
 
 ---
 
