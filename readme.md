@@ -14,6 +14,12 @@ If you find any of my projects helpful or interesting, please consider giving th
 
 ## GitHub Stats
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
   <tr>
     <td style="border: none;">
