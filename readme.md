@@ -14,14 +14,16 @@ If you find any of my projects helpful or interesting, please consider giving th
 
 ## GitHub Stats
 
-<div style="display: flex; flex-direction: row">
-  <div maxwidth="50%" align="center" valign="top">
-    <img src="https://github-readme-stats-psi-weld-99.vercel.app/api?username=fershibli&hide=contributions&show=reviews,prs_merged&show_icons=true&count_private=true&private_contributions=true&include_all_commits=true&theme=neon" />
-  </div>
-  <div maxwidth="50%" align="center" valign="top">
-    <img src="https://github-readme-stats-psi-weld-99.vercel.app/api/top-langs/?username=fershibli&count_private=true&private_contributions=true&langs_count=6&layout=donut&theme=neon" />
-  </div>
-</div>
+<table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
+  <tr>
+    <td style="border: none;">
+      <img src="https://github-readme-stats-psi-weld-99.vercel.app/api?username=fershibli&hide=contributions&show=reviews,prs_merged&show_icons=true&count_private=true&private_contributions=true&include_all_commits=true&theme=neon" width="100%" />
+    </td>
+    <td style="border: none;">
+      <img src="https://github-readme-stats-psi-weld-99.vercel.app/api/top-langs/?username=fershibli&count_private=true&private_contributions=true&langs_count=6&layout=donut&theme=neon" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
