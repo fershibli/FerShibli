@@ -17,10 +17,10 @@ If you find any of my projects helpful or interesting, please consider giving th
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td maxwidth="50%" align="center" valign="top">
-      <img height="100px" src="https://github-readme-stats.vercel.app/api?username=fershibli&show_icons=true&theme=panda" />
+      <img src="https://github-readme-stats-psi-weld-99.vercel.app/api?username=fershibli&hide=contributions&show=reviews,prs_merged&show_icons=true&count_private=true&private_contributions=true&include_all_commits=true&theme=neon" />
     </td>
     <td maxwidth="50%" align="center" valign="top">
-      <img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fershibli&layout=compact&theme=panda" />
+      <img src="https://github-readme-stats-psi-weld-99.vercel.app/api/top-langs/?username=fershibli&count_private=true&private_contributions=true&layout=donut&theme=neon" />
     </td>
   </tr>
 </table>
