@@ -58,9 +58,3 @@
     alt="Top Languages - Fernando" 
   />
 </a>
-
-<br>
-
----
-
-_Thank you for visiting my GitHub front page!_
