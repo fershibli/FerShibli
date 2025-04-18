@@ -27,7 +27,7 @@ Passionate about software and exploring new technologies. I love working with bo
 
 ## Favorite Technologies
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&labelColor=FFD43B&logoColor=306998)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/Beautiful_Soup-2980B9?style=for-the-badge&logo=python&logoColor=white)
