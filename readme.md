@@ -10,20 +10,18 @@ Passionate about software and exploring new technologies. I love working with bo
 
 ## GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img 
-    src="https://github-readme-stats-psi-weld-99.vercel.app/api?username=fershibli&hide=contributions&show=reviews,prs_merged&show_icons=true&count_private=true&private_contributions=true&include_all_commits=true&theme=neon" 
-    width="56%" 
-    alt="GitHub Stats - Fernando" 
-  />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img 
-    src="https://github-readme-stats-psi-weld-99.vercel.app/api/top-langs/?username=fershibli&count_private=true&private_contributions=true&langs_count=6&layout=donut&theme=neon" 
-    width="41.7%" 
-    alt="Top Languages - Fernando" 
-  />
-</a>
+<img 
+  src="https://github-readme-stats-psi-weld-99.vercel.app/api?username=fershibli&hide=contributions&show=reviews,prs_merged&show_icons=true&count_private=true&private_contributions=true&include_all_commits=true&theme=neon" 
+  width="56%" 
+  alt="GitHub Stats - Fernando" 
+/>
+<img 
+  src="https://github-readme-stats-psi-weld-99.vercel.app/api/top-langs/?username=fershibli&count_private=true&private_contributions=true&langs_count=6&layout=donut&theme=neon" 
+  width="41.7%" 
+  alt="Top Languages - Fernando" 
+/>
+
+ > _Add your own <strong><a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a></strong> card to your profile!_
 
 ## Favorite Technologies
 
