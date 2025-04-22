@@ -23,7 +23,7 @@ Passionate about software and exploring new technologies. I love working with bo
 
 _(Explore <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats repository</a> to add your own cards to your profile!)_
 
-## Favorite Technologies
+## Technologies That I Love
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
